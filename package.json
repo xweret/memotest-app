@@ -2,7 +2,7 @@
   "name": "memotest-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://xwertet.github.io/memotest-app",
+  "homepage": "https://xweret.github.io/memotest-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
